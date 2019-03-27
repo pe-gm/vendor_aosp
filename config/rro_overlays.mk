@@ -15,6 +15,7 @@ PRODUCT_PACKAGES += \
     SettingsGoogleOverlayPixel2022 \
     TelephonyProviderOverlay \
     ContactsProviderOverlay \
+    NotchBarKillerOverlay \
     PixelConfigOverlay2018 \
     SettingsProviderOverlay \
     TraceurOverlay \
