@@ -9,6 +9,7 @@ PRODUCT_PACKAGES += \
     GooglePermissionControllerOverlay \
     GoogleWebViewOverlay \
     NetworkStackOverlay \
+    NotchBarKillerOverlay \
     PixelConfigOverlay2018 \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2019Midyear \
