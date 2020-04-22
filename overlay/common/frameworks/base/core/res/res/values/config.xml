@@ -123,4 +123,6 @@
     <!-- Suppress Intent Filter Verification Service crashes and System UI ANRs (both AOSP bugs) -->
     <string translatable="false" name="config_appsNotReportingCrashes">com.google.android.as</string>
 
+    <!-- Whether safe headphone volume is enabled or not. -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
 </resources>
