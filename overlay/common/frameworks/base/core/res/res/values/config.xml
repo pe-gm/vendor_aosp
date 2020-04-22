@@ -77,4 +77,7 @@
     <string-array translatable="false" name="config_loggersPkgList" >
         <item>org.omnirom.logcat</item>
     </string-array>
+
+    <!-- Whether safe headphone volume is enabled or not. -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
 </resources>
