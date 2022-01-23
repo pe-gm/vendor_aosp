@@ -177,6 +177,10 @@ TARGET_INCLUDE_STOCK_ARCORE ?= true
 TARGET_INCLUDE_LIVE_WALLPAPERS ?= true
 TARGET_SUPPORTS_QUICK_TAP ?= false
 
+# Repainter integration
+PRODUCT_PACKAGES += \
+    RepainterServicePriv
+
 # Face Unlock
 #TARGET_FACE_UNLOCK_SUPPORTED ?= true
 #ifeq ($(TARGET_FACE_UNLOCK_SUPPORTED),true)
