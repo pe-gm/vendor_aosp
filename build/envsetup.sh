@@ -22,8 +22,6 @@ Additional functions:
 EOF
 }
 
-alias mka=m
-
 function mk_timer()
 {
     local start_time=$(date +"%s")
@@ -675,6 +673,10 @@ function pixelrebase() {
     echo "Cleaning up..."
     repo abandon tmprebase .
     cd $pwd
+}
+
+function mka() {
+    m
 }
 
 function cmka() {
