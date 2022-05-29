@@ -241,6 +241,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     GameSpace
 
+# MatLog
+PRODUCT_PACKAGES += \
+    MatLog
+
 # Audio
 $(call inherit-product, vendor/aosp/config/audio.mk)
 
