@@ -263,6 +263,11 @@ $(call inherit-product, vendor/aosp/config/ota.mk)
 # RRO Overlays
 $(call inherit-product, vendor/aosp/config/rro_overlays.mk)
 
+# Lawnchair
+ifeq ($(TARGET_BUILD_LAWNCHAIR),true)
+$(call inherit-product, vendor/lawnchair/product.mk)
+endif
+
 # Lawnchair Icons
 $(call inherit-product, vendor/lawnicons/product.mk)
 
