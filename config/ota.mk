@@ -1,4 +1,3 @@
-ifneq ($(filter OFFICIAL CI,$(CUSTOM_BUILD_TYPE)),)
+# OTA service
 PRODUCT_PACKAGES += \
     Updates
-endif
