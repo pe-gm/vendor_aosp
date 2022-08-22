@@ -28,6 +28,7 @@ PRODUCT_PACKAGES += \
     CellBroadcastServiceOverlay \
     ContactsProviderOverlay \
     DummyCutoutOverlay \
+    ImmersiveNavigationOverlay \
     NavigationBarNoHintOverlay \
     NetworkStackOverlay \
     NoCutoutOverlay \
