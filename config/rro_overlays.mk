@@ -28,4 +28,5 @@ PRODUCT_PACKAGES += \
     SystemUIGoogleOverlay \
     StorageManagerGoogleOverlay \
     FlipendoOverlay \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    ImmersiveNavigationOverlay
