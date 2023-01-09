@@ -80,4 +80,9 @@
 
     <!-- Whether or not to enable the lock screen entry point for the QR code scanner. -->
     <bool name="config_enableQrCodeScannerOnLockScreen">true</bool>
+
+    <string-array translatable="false" name="config_loggersPkgList" >
+        <item>org.omnirom.logcat</item>
+    </string-array>
+
 </resources>
