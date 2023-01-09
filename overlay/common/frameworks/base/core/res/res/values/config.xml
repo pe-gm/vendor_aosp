@@ -73,4 +73,8 @@
 
     <!-- Whether or not we should show the option to show battery percentage -->
     <bool name="config_battery_percentage_setting_available">false</bool>
+
+    <string-array translatable="false" name="config_loggersPkgList" >
+        <item>org.omnirom.logcat</item>
+    </string-array>
 </resources>
