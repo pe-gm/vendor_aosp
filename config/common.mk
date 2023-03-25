@@ -92,6 +92,10 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     product_charger_res_images
 
+# Debloater
+PRODUCT_PACKAGES += \
+    Debloater
+
 # Filesystems tools
 PRODUCT_PACKAGES += \
     fsck.ntfs \
