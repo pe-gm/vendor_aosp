@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
 
 # RRO Overlays
 PRODUCT_PACKAGES += \
+    BlackTheme \
     CaptivePortalLoginOverlay \
     CellBroadcastServiceOverlay \
     ContactsProviderOverlay \
