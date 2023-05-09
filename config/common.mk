@@ -209,9 +209,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.boot.vendor.overlay.theme=com.android.internal.systemui.navbar.gestural
 
 # Pixel customization
-TARGET_SUPPORTS_GOOGLE_RECORDER ?= true
+TARGET_SUPPORTS_GOOGLE_RECORDER ?= false
 TARGET_INCLUDE_STOCK_ARCORE ?= true
-TARGET_INCLUDE_LIVE_WALLPAPERS ?= true
+TARGET_INCLUDE_LIVE_WALLPAPERS ?= false
 TARGET_SUPPORTS_QUICK_TAP ?= false
 TARGET_SUPPORTS_CALL_RECORDING ?= true
 
