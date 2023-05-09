@@ -1,0 +1,46 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Game Space -->
+    <string name="game_space_title">Espaço de jogos</string>
+    <string name="game_space_summary">Melhore sua experiência de jogo</string>
+
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorar sinalizadores de segurança da janela</string>
+    <string name="ignore_window_secure_summary">Isso remove os limites de capturas de tela e registros de tela para todos os aplicativos. Normalmente, as aplicações especiais são substituídas por áreas pretas nos registros. Isso pode ser conveniente em alguns casos, mas pode levar a vazamentos de privacidade. Depois de alterar essa alternância, talvez seja necessário reiniciar os aplicativos para que a alteração tenha efeito.</string>
+
+    <!-- General -->
+    <string name="copied_to_clipboard">Copiado para a área de transferência</string>
+    <string name="longpress_to_clipboard">Pressione e segure para copiar</string>
+
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">Configuração USB</string>
+    <string name="usb_default_config_summary">Escolha o comportamento padrão quando conectado a um dispositivo via USB</string>
+
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barra de navegação</string>
+    <string name="immersive_navigation_title">Navegação Imersiva</string>
+    <string name="immersive_navigation_summary">Oculte a pílula de gestos e o preenchimento da barra de navegação.</string>
+
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicativos em tela cheia</string>
+    <string name="display_cutout_force_fullscreen_summary">Forçar aplicativos a ignorar o espaço do entalhe</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_apps">Pesquisar aplicativos</string>
+
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume de aplicativos</string>
+    <string name="app_volume_title">Controle de volume por aplicativo</string>
+    <string name="app_volume_summary">Permitir definir diferentes níveis de volume para cada aplicativo</string>
+
+    <!-- Summary for the accessibility preference to adjust the display size, font size, bold text, and high contrast text features. [CHAR LIMIT=NONE] -->
+    <string name="accessibility_text_reading_options_summary">Personalize o tamanho da tela, fonte e texto</string>
+
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] --> 
+    <string name="duration_less_than_one_minute">Menos de 1 Minuto</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s hoje</string>
+
+    <!-- Black theme -->
+    <string name="berry_black_theme_title">Tons mais escuros (AMOLED)</string>
+    <string name="berry_black_theme_summary">Força um fundo preto absoluto quando o modo escuro estiver ativado</string>
+</resources>

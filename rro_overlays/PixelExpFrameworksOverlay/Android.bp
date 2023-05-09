@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "PixelExpFrameworksOverlay",
+    product_specific: true,
+}

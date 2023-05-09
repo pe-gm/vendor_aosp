@@ -23,6 +23,7 @@ PRODUCT_PACKAGES += \
 
 # RRO Overlays
 PRODUCT_PACKAGES += \
+    ApertureResOverlay \
     BlackTheme \
     CaptivePortalLoginOverlay \
     CellBroadcastServiceOverlay \
@@ -33,6 +34,9 @@ PRODUCT_PACKAGES += \
     NetworkStackOverlay \
     NoCutoutOverlay \
     NotchBarKillerOverlay \
+    PixelExpFrameworksOverlay \
+    PixelExpSettingsOverlay \
+    PixelExpSystemUIOverlay \
     TeleServiceOverlay \
     TelecomOverlay \
     TelephonyProvid
