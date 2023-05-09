@@ -1,30 +1,37 @@
-# RRO Overlays
+# Pixel Overlays
 PRODUCT_PACKAGES += \
-    NetworkStackOverlay \
-    PixelLauncherCustomOverlay \
-    PixelDocumentsUIGoogleOverlay \
     BuiltInPrintServiceOverlay \
+    FlipendoOverlay \
+    GoogleConfigOverlay \
     GooglePermissionControllerOverlay \
-    PixelConfigOverlayCommon \
-    TeleServiceOverlay \
-    CaptivePortalLoginOverlay \
     GoogleWebViewOverlay \
-    TelecomOverlay \
-    CellBroadcastServiceOverlay \
-    SettingsGoogleOverlay \
-    SettingsGoogleOverlayPixel2022 \
-    TelephonyProviderOverlay \
-    ContactsProviderOverlay \
-    NotchBarKillerOverlay \
+    NexusLauncherResOverlay \
     PixelConfigOverlay2018 \
-    SettingsProviderOverlay \
-    TraceurOverlay \
     PixelConfigOverlay2019 \
     PixelConfigOverlay2019Midyear \
     PixelConfigOverlay2021 \
-    PixelSetupWizardOverlay \
+    PixelConfigOverlayCommon \
+    PixelDocumentsUIGoogleOverlay \
     PixelFwResOverlay \
-    GoogleConfigOverlay \
-    SystemUIGoogleOverlay \
+    PixelLauncherCustomOverlay \
+    PixelSetupWizardOverlay \
+    SettingsGoogleOverlay \
+    SettingsGoogleOverlayPixel2022 \
+    SettingsProviderOverlay \
     StorageManagerGoogleOverlay \
-    FlipendoOverlay
+    SystemUIGoogleOverlay
+
+# RRO Overlays
+PRODUCT_PACKAGES += \
+    CaptivePortalLoginOverlay \
+    CellBroadcastServiceOverlay \
+    ContactsProviderOverlay \
+    DummyCutoutOverlay \
+    ImmersiveNavigationOverlay \
+    NavigationBarNoHintOverlay \
+    NetworkStackOverlay \
+    NoCutoutOverlay \
+    NotchBarKillerOverlay \
+    TeleServiceOverlay \
+    TelecomOverlay \
+    TelephonyProvid

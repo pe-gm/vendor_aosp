@@ -35,9 +35,6 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     ro.com.android.dateformat=MM-dd-yyyy \
     persist.sys.disable_rescue=true
 
-PRODUCT_PACKAGES += \
-    ImmersiveNavigationOverlay
-
 ifeq ($(TARGET_BUILD_VARIANT),eng)
 # Disable ADB authentication
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += ro.adb.secure=0
@@ -130,11 +127,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/aosp/overlay/common
 
-# Cutout control overlay
-PRODUCT_PACKAGES += \
-    NoCutoutOverlay \
-    DummyCutoutOverlay
-
 # TouchGestures
 PRODUCT_PACKAGES += \
     TouchGestures
@@ -142,10 +134,6 @@ PRODUCT_PACKAGES += \
 # One Handed mode
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.support_one_handed_mode=true \
-
-# Hide navigation bar hint
-PRODUCT_PACKAGES += \
-    NavigationBarNoHintOverlay
 
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
@@ -229,10 +217,6 @@ endif
 # Repainter integration
 PRODUCT_PACKAGES += \
     RepainterServicePriv
-
-# NexusLauncher resources
-PRODUCT_PACKAGES += \
-    NexusLauncherResOverlay
 
 # Audio
 $(call inherit-product, vendor/aosp/config/audio.mk)
