@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Câmera</string>
+    <string name="video_camera_label">Filmadora</string>
+    <string name="camera_mode_highlight_description">Modo de câmera realçado</string>
+    <string name="cancel_button_description">Cancelar</string>
+    <string name="confirm_button_description">Confirmar</string>
+    <string name="flash_button_description">Modo de flash</string>
+    <string name="flip_camera_button_description">Vire a câmera</string>
+    <string name="gallery_button_description">Galeria</string>
+    <string name="google_lens_button_description">Abrir o Google Lens</string>
+    <string name="image_view_description">Pré-visualização de imagem</string>
+    <string name="photo_mode_button_description">Alternar para o modo de foto</string>
+    <string name="pro_button_description">Configurações profissionais</string>
+    <string name="qr_mode_button_description">Alternar para o modo de leitura de QR code</string>
+    <string name="settings_back_button_description">Voltar para o modo câmera</string>
+    <string name="shutter_button_description">Obturador</string>
+    <string name="video_mode_button_description">Alternar para o modo de vídeo</string>
+    <string name="video_recording_state_button_description">Pausar/retomar a gravação de vídeo</string>
+    <string name="timer_off">OFF</string>
+    <string name="timer_3">3s</string>
+    <string name="timer_10">10s</string>
+    <string name="video_framerate_auto">AUTO FPS</string>
+    <string name="video_framerate_value"><xliff:g example="60" id="fps">%d</xliff:g> FPS</string>
+    <string name="effect_none">NENHUM</string>
+    <string name="effect_bokeh" translatable="false"></string>
+    <string name="effect_hdr" translatable="false">HDR</string>
+    <string name="effect_night">NOITE</string>
+    <string name="effect_face_retouch">RETOQUE FACIAL</string>
+    <string name="effect_auto">AUTOMÁTICO</string>
+    <string name="grid_off">OFF</string>
+    <string name="grid_on_3">3x3</string>
+    <string name="grid_on_4">4x4</string>
+    <string name="grid_on_goldenratio">φ</string>
+    <string name="mic_off">MIC OFF</string>
+    <string name="mic_on">MIC ON</string>
+    <string name="settings">CONFIGURAÇÔES</string>
+    <string name="selector_photo">FOTO</string>
+    <string name="select_video">VÍDEO</string>
+    <string name="select_scan">SCANNER</string>
+    <string name="app_permissions_toast">Permissões não concedidas pelo usuário.</string>
+    <string name="camcorder_unsupported_toast">Nenhuma câmera suporta gravação de vídeo.</string>
+    <string name="qr_copy_description">Copiar para área de transferência</string>
+    <string name="qr_icon_description">Ícone</string>
+    <string name="qr_share_description">Compartilhar</string>
+    <string name="qr_text">Texto</string>
+    <string name="title_activity_settings">Configurações</string>
+    <string name="general_header">Geral</string>
+    <string name="photos_header">Fotos</string>
+    <string name="video_header">Vídeo</string>
+    <string name="bright_screen_title">Tela brilhante</string>
+    <string name="bright_screen_summary">Bloqueia o brilho em 100%</string>
+    <string name="save_location_title">Salvar dados de localização</string>
+    <string name="save_location_summary">Incluir localização GPS nos metadados</string>
+    <string name="save_location_toast">Permissões de localização não concedidas pelo usuário.</string>
+    <string name="shutter_sound_title">Som do obturador</string>
+    <string name="shutter_sound_summary">Tocar um som na captura</string>
+    <string name="leveler_title">Nivelador</string>
+    <string name="leveler_summary">Indicador que mostra a orientação do dispositivo</string>
+    <string name="photo_capture_mode_title">Modo de captura</string>
+    <string name="photo_capture_mode_maximize_quality">Maximize a qualidade</string>
+    <string name="photo_capture_mode_minimize_latency">Minimizar a latência</string>
+    <string name="enable_zsl_title">Habilitar ZSL quando disponível</string>
+    <string name="enable_zsl_summary">Use o modo ZSL quando a câmera o suportar. Neste modo, os efeitos fotográficos são desativados. Observe que este modo é atualmente experimental</string>
+    <string name="photo_ffc_mirror_title">Câmera frontal espelhada</string>
+    <string name="photo_ffc_mirror_summary">Salva as fotos da câmera frontal conforme elas aparecem na pré-visualização</string>
+    <string name="video_stabilization_title">Ative a estabilização de vídeo quando disponível</string>
+    <string name="video_stabilization_summary">Quando disponível, ative a estabilização eletrônica de imagem (EIS)</string>
+    <string name="shortcut_selfie">Tire uma selfie</string>
+    <string name="shortcut_video">Faça um vídeo</string>
+    <string name="shortcut_qr">QR CODE</string>
+    <string name="location_permission_dialog_title">Adicionar locais de fotos e vídeos</string>
+    <string name="location_permission_dialog_description">Mapeie suas memórias incluindo metadados de localização em cada captura.</string>
+    <string name="location_permission_dialog_later">Depois</string>
+    <string name="location_permission_dialog_turn_on">Ligar</string>
+</resources>

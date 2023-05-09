@@ -29,4 +29,8 @@ PRODUCT_PACKAGES += \
     StorageManagerGoogleOverlay \
     FlipendoOverlay \
     AndroidBlackThemeOverlay \
-    ImmersiveNavigationOverlay
+    ImmersiveNavigationOverlay \
+    PixelExpSystemUITranslation \
+    PixelExpSettingsTranslation \
+    PixelExpFrameworksTranslation \
+    PixelExpApertureTranslation
