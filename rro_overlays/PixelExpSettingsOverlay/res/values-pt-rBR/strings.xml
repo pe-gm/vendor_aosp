@@ -14,7 +14,7 @@
 
     <!-- USB configuration -->
     <string name="usb_default_config_title">Configuração USB</string>
-    <string name="usb_default_config_summary">Escolha o comportamento padrão quando conectado a um dispositivo via USB</string>
+    <string name="usb_default_config_summary">Escolha o modo padrão quando conectado a um dispositivo via USB</string>
 
     <!-- Immersive Navigation -->
     <string name="gesture_navbar_category_title">Barra de navegação</string>

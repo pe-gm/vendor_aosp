@@ -1,7 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- PowerOffAlarmService -->
-    <string name="notification_channel_poweroff_alarm">Power off alarme</string>
+    <string name="notification_channel_poweroff_alarm">Alarme</string>
     <string name="poweroff_alarm_title">Alarme definido</string>
-    <string name="poweroff_alarm_body">Um alarme foi detectado e o dispositivo será ligado 2 minutos antes devido a isso</string>
+    <string name="poweroff_alarm_body">Um alarme foi detectado. Caso o telefone esteja desligado ele ligará 2 minutos antes do prazo</string>
 </resources>
