@@ -85,4 +85,6 @@
         <item>org.omnirom.logcat</item>
     </string-array>
 
+    <!-- Default value for performant auth feature. -->
+    <bool name="config_performantAuthDefault">true</bool>
 </resources>
