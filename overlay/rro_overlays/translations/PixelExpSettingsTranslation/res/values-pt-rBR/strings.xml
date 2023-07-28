@@ -59,4 +59,12 @@
     <!-- Show clipboard overlay -->
     <string name="show_clipboard_overlay_title">Mostrar pop-up da área de transferência</string>
     <string name="show_clipboard_overlay_summary">Mostrar um pop-up no canto inferior esquerdo da tela quando algo for copiado para a área de transferência</string>
+
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduzir taxa de atualização</string>
+    <string name="battery_saver_refresh_rate_summary">Use a taxa de atualização de tela de 60 Hz para economizar energia quando a Economia de bateria estiver ativada</string>
+
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Ocultar o menu liga/desliga na tela de bloqueio</string>
+    <string name="power_menu_hide_on_secure_summary">Oculte o menu liga/desliga enquanto estiver em uma tela de bloqueio segura</string>
 </resources>

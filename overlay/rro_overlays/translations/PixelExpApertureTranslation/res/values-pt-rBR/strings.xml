@@ -77,4 +77,23 @@
     <string name="location_permission_dialog_description">Mapeie suas memórias incluindo metadados de localização em cada captura.</string>
     <string name="location_permission_dialog_later">Depois</string>
     <string name="location_permission_dialog_turn_on">Ligar</string>
+    <string name="error_max_cameras_in_use">O número máximo de câmeras abertas foi atingido, tente fechar outros aplicativos usando as câmeras do dispositivo.</string>
+    <string name="error_camera_in_use">Esta câmera já está em uso, tente fechar o aplicativo usando-a.</string>
+    <string name="error_stream_config">Ocorreu um erro ao preparar a transmissão. Por favor, informe isso aos desenvolvedores.</string>
+    <string name="error_other_recoverable_error">Erro ao configurar a sessão. O aplicativo tentará se recuperar.</string>
+    <string name="error_camera_disabled">A câmera está desativada. Isso pode ser causado pela política do dispositivo.</string>
+    <string name="error_camera_fatal_error">Foi encontrado um erro fatal. Tente reiniciar o seu dispositivo.</string>
+    <string name="error_do_not_disturb_mode_enabled">O modo Não perturbe está ativado. Desative-o e reabra o aplicativo.</string>
+    <string name="error_unknown_recoverable">Um erro desconhecido recuperável foi encontrado. Por favor, informe isso aos desenvolvedores.</string>
+    <string name="error_unknown_critical">Um erro crítico desconhecido foi encontrado. Por favor, informe isso aos desenvolvedores.</string>
+    <string name="gesture_action_shutter">Obturador</string>
+    <string name="gesture_action_zoom">Zoom</string>
+    <string name="gesture_action_volume">Volume</string>
+    <string name="gesture_action_nothing">Nada</string>
+    <string name="thermal_status_moderate">Temperatura moderada, certifique-se de que o dispositivo não está sob luz solar direta.</string>
+    <string name="thermal_status_severe">Temperatura severamente alta, é recomendável deixar o dispositivo esfriar um pouco.</string>
+    <string name="thermal_status_critical">Temperatura crítica, o aplicativo pode ser fechado em breve.</string>
+    <string name="thermal_status_emergency">Regulagem térmica de emergência, o aplicativo será fechado agora.</string>
+    <string name="thermal_status_shutdown">O dispositivo será desligado.</string>
+    <string name="force_torch_help">No modo foto, você pode pressionar e segurar o botão do flash para alternar para o modo de toque.</string>
 </resources>
