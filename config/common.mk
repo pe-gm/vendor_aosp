@@ -138,6 +138,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 
 # Dex preopt
 PRODUCT_DEXPREOPT_SPEED_APPS += \
+    SettingsGoogle \
     SystemUIGoogle \
     NexusLauncherRelease
 
