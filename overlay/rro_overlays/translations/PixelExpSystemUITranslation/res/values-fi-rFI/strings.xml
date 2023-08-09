@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screenshot delete action -->
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Poista</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Poista kuvakaappaus</string>
+    <!-- SoundSearch Tile -->
+    <string name="quick_settings_sound_search">Äänen haku</string>
+    <string name="quick_settings_sound_search_no_app">Anteeksi, mutta tämä ei toimi, jos sinulla ei ole äänihakusovellusta.</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Vaihda datakorttia</string>
+    <!-- Bluetooth dialog -->
+    <string name="bluetooth_is_off">Bluetooth on pois päältä</string>
+    <string name="tap_a_device_to_connect">Napauta laitetta yhdistääksesi</string>
+    <!-- Screenshot Tile -->
+    <string name="screenshot_long_press">Paina pitkään - valittu alue</string>
+    <!-- Refresh Rate Tile -->
+    <string name="refresh_rate_tile_label">Päivitä kurssi</string>
+    <string name="auto_mode_label">Dynaaminen</string>
+</resources>

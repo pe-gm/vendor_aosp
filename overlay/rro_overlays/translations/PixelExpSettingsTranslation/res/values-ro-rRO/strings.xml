@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Spațiu de jocuri</string>
+    <string name="game_space_summary">Îmbunătățește-ți experiența de joc</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Bara de navigare</string>
+    <string name="immersive_navigation_title">Navigare imersivă</string>
+    <string name="immersive_navigation_summary">Ascunde gesturile de îmbinare și bară de navigare.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Model vibratie notificare</string>
+    <string name="ring_vibration_pattern_title">Sablon vibratie sunet</string>
+    <string name="pattern_default">Dispozitiv implicit</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignoră steagurile sigure ale ferestrei</string>
+    <string name="ignore_window_secure_summary">Aceasta elimină capturile de ecran şi limitele înregistrărilor de ecran pentru toate aplicaţiile. În mod normal, aplicaţiile speciale sunt înlocuite cu zonele negre din înregistrări. Acest lucru poate fi convenabil în unele cazuri, dar poate duce la scurgeri de intimitate. După schimbarea acestui toggle, ar putea fi necesar să reporniți aplicațiile pentru ca schimbarea să aibă efect.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicații ecran complet</string>
+    <string name="display_cutout_force_fullscreen_summary">Forțează aplicațiile să ignore spațiul pentru notițe</string>
+    <string name="search">Caută</string>
+    <string name="search_apps">Căutare aplicații</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volum aplicație</string>
+    <string name="app_volume_title">Control volum per-aplicație</string>
+    <string name="app_volume_summary">Permite setarea nivelelor de volum diferite pentru fiecare aplicaţie</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">5G inteligent</string>
+    <string name="smart_5g_summary">Comută automat între 5G și 4G pentru a reduce consumul bateriei</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Darker Shades (AMOLED)</string>
+    <string name="system_black_theme_summary">Forțează culorile negre de fundal</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Copiat în clipboard</string>
+    <string name="longpress_to_clipboard">Apăsați lung pentru a copia</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Alegeți comportamentul implicit atunci când sunteți conectat la un dispozitiv prin USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Mai puțin de un minut</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s astăzi</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Rată reîmprospătare</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Arată o suprapunere în colțul din stânga jos al ecranului atunci când ceva este copiat în clipboard</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduce rata de împrospătare</string>
+    <string name="battery_saver_refresh_rate_summary">Folosește rata de împrospătare a ecranului 60 Hz pentru a economisi energie atunci când Economizorul de baterie este pornit</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Ascunde meniul de alimentare pe ecranul de blocare</string>
+    <string name="power_menu_hide_on_secure_summary">Ascunde meniul de alimentare în timpul unui ecran de blocare securizat</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Trepte volum</string>
+    <string name="volume_steps_summary">Personalizați pașii volumului</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Notificare</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Sistem</string>
+    <string name="volume_steps_voice_call_title">Apel vocal</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

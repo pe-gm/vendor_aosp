@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screenshot delete action -->
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Slet</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Slet skærmbillede</string>
+    <!-- SoundSearch Tile -->
+    <string name="quick_settings_sound_search">Søg efter lyd</string>
+    <string name="quick_settings_sound_search_no_app">Beklager, men dette virker ikke, hvis du ikke har en Lyd søgning app.</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Skift datakort</string>
+    <!-- Bluetooth dialog -->
+    <string name="bluetooth_is_off">Bluetooth er slukket</string>
+    <string name="tap_a_device_to_connect">Tryk på en enhed for at oprette forbindelse</string>
+    <!-- Screenshot Tile -->
+    <string name="screenshot_long_press">Langt tryk - valgte område</string>
+    <!-- Refresh Rate Tile -->
+    <string name="refresh_rate_tile_label">Opdater sats</string>
+    <string name="auto_mode_label">Dynamisk</string>
+</resources>

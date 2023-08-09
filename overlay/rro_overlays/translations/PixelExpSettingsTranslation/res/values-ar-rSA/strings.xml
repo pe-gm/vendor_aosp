@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">مساحة اللعبة</string>
+    <string name="game_space_summary">تعزيز تجربتك في الألعاب</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">شريط التنقل</string>
+    <string name="immersive_navigation_title">الملاحة الغامرة</string>
+    <string name="immersive_navigation_summary">إخفاء حزمة الإيماءات وحواجز شريط التنقل.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">نمط اهتزاز الإشعارات</string>
+    <string name="ring_vibration_pattern_title">نمط اهتزاز الرنين</string>
+    <string name="pattern_default">الجهاز الافتراضي</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">تجاهل أعلام النافذة الآمنة</string>
+    <string name="ignore_window_secure_summary">هذا يزيل لقطات الشاشة وحدود سجلات الشاشة لجميع التطبيقات. عادة يتم استبدال التطبيقات الخاصة بالمناطق السوداء في السجلات. ويمكن أن يكون ذلك مناسبا في بعض الحالات ولكنه قد يؤدي إلى تسرب الخصوصية. بعد تغيير هذا التبديل ، قد تحتاج إلى إعادة تشغيل التطبيقات حتى يصبح التغيير ساري المفعول.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">تطبيقات ملء الشاشة</string>
+    <string name="display_cutout_force_fullscreen_summary">إجبار التطبيقات على تجاهل مساحة النوتش</string>
+    <string name="search">البحث</string>
+    <string name="search_apps">البحث عن التطبيقات</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">حجم التطبيق</string>
+    <string name="app_volume_title">التحكم في الصوت لكل تطبيق</string>
+    <string name="app_volume_summary">السماح بتعيين مستويات صوت مختلفة لكل تطبيق</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">5G ذكية</string>
+    <string name="smart_5g_summary">التبديل تلقائياً بين 5G و4G لتقليل استهلاك البطارية</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">ظلال الظلام (AMOLED)</string>
+    <string name="system_black_theme_summary">إجبار ألوان الخلفية السوداء</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">جوجل بلاي</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">نسخ إلى الحافظة</string>
+    <string name="longpress_to_clipboard">اضغط مطولاً للنسخ</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">اختر السلوك الافتراضي عند الاتصال بجهاز عبر USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">أقل من دقيقة واحدة</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s اليوم</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">معدل التحديث</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">إظهار تراكب في الجزء السفلي الأيسر من الشاشة عندما يتم نسخ شيء ما إلى الحافظة</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">تقليل معدل التحديث</string>
+    <string name="battery_saver_refresh_rate_summary">استخدام معدل تحديث الشاشة 60 هرتز لتوفير الطاقة عند تشغيل توفير البطارية</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">إخفاء قائمة التشغيل على شاشة القفل</string>
+    <string name="power_menu_hide_on_secure_summary">إخفاء قائمة التشغيل أثناء تشغيل شاشة قفل آمنة</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">درجات الصوت</string>
+    <string name="volume_steps_summary">تخصيص خطوات مستوى الصوت</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">الوسائط</string>
+    <string name="volume_steps_notification_title">إشعار</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">النظام</string>
+    <string name="volume_steps_voice_call_title">مكالمة صوتية</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screenshot delete action -->
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Usuń</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Usuń zrzut ekranu</string>
+    <!-- SoundSearch Tile -->
+    <string name="quick_settings_sound_search">Wyszukiwanie dźwięku</string>
+    <string name="quick_settings_sound_search_no_app">Przepraszamy, ale to nie działa, jeśli nie masz aplikacji do wyszukiwania dźwięku.</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Przełącz kartę danych</string>
+    <!-- Bluetooth dialog -->
+    <string name="bluetooth_is_off">Bluetooth jest wyłączony</string>
+    <string name="tap_a_device_to_connect">Dotknij urządzenia, aby połączyć</string>
+    <!-- Screenshot Tile -->
+    <string name="screenshot_long_press">Długie naciśnięcie - wybrany region</string>
+    <!-- Refresh Rate Tile -->
+    <string name="refresh_rate_tile_label">Częstotliwość odświeżania</string>
+    <string name="auto_mode_label">Dynamiczny</string>
+</resources>

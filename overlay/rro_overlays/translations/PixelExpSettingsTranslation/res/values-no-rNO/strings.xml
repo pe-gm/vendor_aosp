@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Spill plass</string>
+    <string name="game_space_summary">Forbedre din spillopplevelse</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigasjonsfelt</string>
+    <string name="immersive_navigation_title">Fullskjerm navigasjon</string>
+    <string name="immersive_navigation_summary">Skjul bevegelse og navigasjonsbar utfylling.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Varslings vibrasjonsmønster</string>
+    <string name="ring_vibration_pattern_title">Ring vibrasjonsmønster</string>
+    <string name="pattern_default">Standard enhet</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorer sikkerhetsflagg for vindu</string>
+    <string name="ignore_window_secure_summary">Dette fjerner skjermbilder og skjermvisninger tar grense for alle applikasjoner. Normalt erstattes spesialapplikasjoner med svarte områder i poster. Dette kan være hensiktsmessig i noen tilfeller, men kan føre til lekkasje ved ubeskyttelse. Etter å ha endret denne vektoren, må du kanskje starte programmene på nytt for at endringen skal tre i kraft.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Fullskjermsvisning av programmer</string>
+    <string name="display_cutout_force_fullscreen_summary">Tving apper til å ignorere notatavstand</string>
+    <string name="search">Søk</string>
+    <string name="search_apps">Søk etter apper</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volum</string>
+    <string name="app_volume_title">Volumkontroll for apper</string>
+    <string name="app_volume_summary">Tillat å angi forskjellige volumnivåer for hver app</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Bytt automatisk mellom 5G og 4G for å redusere batteriforbruket</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Mørkere figurer (AMOLED)</string>
+    <string name="system_black_theme_summary">Tving svarte bakgrunnsfarger</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Kopiert til utklippstavle</string>
+    <string name="longpress_to_clipboard">Langt trykk for kopiering</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Velg standard virkemåte når koblet til en enhet via USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Mindre enn 1 minutt</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s i dag</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Oppdater rate</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Vis et overlegg i venstre hjørne på skjermen når noe blir kopiert til utklippstavlen</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduser oppdateringsrate</string>
+    <string name="battery_saver_refresh_rate_summary">Bruk skjermhastighet på 60 Hz for å spare strøm når batterisparing er på</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Skjul strøm-meny på låseskjermen</string>
+    <string name="power_menu_hide_on_secure_summary">Skjul strøm-menyen mens du er på en sikker låseskjerm</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Volum trinn</string>
+    <string name="volume_steps_summary">Tilpass volumtrinn</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Medier</string>
+    <string name="volume_steps_notification_title">Varsling</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Systemadministrasjon</string>
+    <string name="volume_steps_voice_call_title">Taleanrop</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

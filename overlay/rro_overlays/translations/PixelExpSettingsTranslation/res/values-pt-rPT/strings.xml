@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Espaço de jogo</string>
+    <string name="game_space_summary">Melhore a sua experiência em jogos</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barra de navegação</string>
+    <string name="immersive_navigation_title">Navegação imersiva</string>
+    <string name="immersive_navigation_summary">Ocultar a pílula de gestos e barra de navegação.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Padrão de vibração</string>
+    <string name="ring_vibration_pattern_title">Padrão de vibração</string>
+    <string name="pattern_default">Padrão do dispositivo</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorar sinalizadores seguros da janela</string>
+    <string name="ignore_window_secure_summary">Isso remove os limites de capturas de tela e registro de tela para todas as aplicações. Normalmente, aplicativos especiais são substituídos por áreas pretas nos registros. Isso pode ser conveniente em alguns casos, mas pode levar a fugas de privacidade. Após alterar este botão, você pode precisar reiniciar o aplicativo para que a alteração tenha efeito.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplicativos em tela cheia</string>
+    <string name="display_cutout_force_fullscreen_summary">Forçar aplicativos a ignorar o espaço do notch</string>
+    <string name="search">Pesquisa</string>
+    <string name="search_apps">Pesquisar aplicativos</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume do aplicativo</string>
+    <string name="app_volume_title">Controle de volume por app</string>
+    <string name="app_volume_summary">Permite definir diferentes níveis de volume para cada app</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">5G inteligente</string>
+    <string name="smart_5g_summary">Alternar automaticamente entre 5G e 4G para reduzir o consumo de bateria</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Sombras das Escuras (AMOLED)</string>
+    <string name="system_black_theme_summary">Forçar cores de fundo preto</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play Store</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Copiado para o clipboard</string>
+    <string name="longpress_to_clipboard">Pressione e segure para copiar</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">BR</string>
+    <string name="usb_default_config_summary">Escolha o comportamento padrão quando conectado a um dispositivo via USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Menos de 1 minuto</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s hoje</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Taxa de atualização</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Exibir uma sobreposição no canto inferior esquerdo da tela quando algo for copiado para a área de transferência</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduzir taxa de atualização</string>
+    <string name="battery_saver_refresh_rate_summary">Usar a taxa de atualização da tela de 60 Hz para economizar energia quando a Economia de bateria estiver ativada</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Ocultar o menu de energia na tela de bloqueio</string>
+    <string name="power_menu_hide_on_secure_summary">Ocultar o menu de energia enquanto estiver na tela de bloqueio</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Níveis de volume</string>
+    <string name="volume_steps_summary">Personalizar níveis de volume</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Multimídia</string>
+    <string name="volume_steps_notification_title">notificação</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">SISTEMA</string>
+    <string name="volume_steps_voice_call_title">Chamada de voz</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

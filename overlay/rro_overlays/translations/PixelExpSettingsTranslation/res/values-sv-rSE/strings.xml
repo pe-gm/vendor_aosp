@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Spelyta</string>
+    <string name="game_space_summary">Förbättra din spelupplevelse</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigeringsfält</string>
+    <string name="immersive_navigation_title">Omslutande navigering</string>
+    <string name="immersive_navigation_summary">Dölj gestpillret och navigationsfältet för stoppning.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Vibrationsmönster för aviseringar</string>
+    <string name="ring_vibration_pattern_title">Ringa vibrationsbild</string>
+    <string name="pattern_default">Enhetens standard</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorera säkra flaggor för fönster</string>
+    <string name="ignore_window_secure_summary">Detta tar bort skärmdumpar och screenrecords gränser för alla program. Normalt, speciella program ersätts med svarta områden i register. Detta kan vara praktiskt i vissa fall men kan leda till sekretessläckor. Efter att du ändrat denna växling, kan du behöva starta om program för att ändringen ska träda i kraft.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Helskärmsappar</string>
+    <string name="display_cutout_force_fullscreen_summary">Tvinga appar att ignorera notch-utrymme</string>
+    <string name="search">Sök</string>
+    <string name="search_apps">Sök appar</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Appens volym</string>
+    <string name="app_volume_title">volymkontroll per app</string>
+    <string name="app_volume_summary">Tillåt att ställa in olika volymnivåer för varje app</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Växla automatiskt mellan 5G och 4G för att minska batteriförbrukningen</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Mörkare nyanser (AMOLED)</string>
+    <string name="system_black_theme_summary">Tvinga svarta bakgrundsfärger</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Kopierad till urklipp</string>
+    <string name="longpress_to_clipboard">Långtryck för att kopiera</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Välj standardbeteende när du är ansluten till en enhet via USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Mindre än 1 minut</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s idag</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Uppdatera hastighet</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Visa ett överlägg i vänstra nedre hörnet av skärmen när något kopieras till urklipp</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Minska uppdateringshastighet</string>
+    <string name="battery_saver_refresh_rate_summary">Använd 60 Hz skärmens uppdateringshastighet för att spara energi när batterisparläget är aktiverat</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Dölj avstängningsmenyn på låsskärmen</string>
+    <string name="power_menu_hide_on_secure_summary">Dölj avstängningsmenyn på en säker låsskärm</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Volym steg</string>
+    <string name="volume_steps_summary">Anpassa volymsteg</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Avisering</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">System</string>
+    <string name="volume_steps_voice_call_title">Röstsamtal</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

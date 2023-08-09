@@ -4,4 +4,7 @@
     <string name="notification_channel_poweroff_alarm">Power off alarme</string>
     <string name="poweroff_alarm_title">Alarme definido</string>
     <string name="poweroff_alarm_body">Um alarme foi detectado; caso o dispositivo esteja desligado, ele será ligado 2 minutos antes; devido a isso.</string>
+
+    <!-- Lock gesture -->
+    <string name="gesture_locked_warning">Deslize novamente para desbloquear os gestos</string>
 </resources>

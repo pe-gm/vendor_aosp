@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Herní prostor</string>
+    <string name="game_space_summary">Vylepšete si herní zážitek</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigační panel</string>
+    <string name="immersive_navigation_title">Pohlcující navigace</string>
+    <string name="immersive_navigation_summary">Skrýt pilulku a odsazení navigačního panelu.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Vzor vibrací oznámení</string>
+    <string name="ring_vibration_pattern_title">Vzor vibrací vyzvánění</string>
+    <string name="pattern_default">Výchozí nastavení zařízení</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignorovat zabezpečené vlajky okna</string>
+    <string name="ignore_window_secure_summary">Tím se odstraní screenshoty a meze záznamů obrazovky pro všechny aplikace. Obvykle jsou speciální aplikace nahrazeny černými oblastmi v záznamech. To může být v některých případech výhodné, ale může to vést k úniku soukromí. Po změně tohoto přepínače budete možná muset restartovat aplikace, aby se změna projevila.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Aplikace na celou obrazovku</string>
+    <string name="display_cutout_force_fullscreen_summary">Nutit aplikace, aby ignorovaly výřez</string>
+    <string name="search">Hledat</string>
+    <string name="search_apps">Hledat aplikace</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Hlasitost aplikace</string>
+    <string name="app_volume_title">Ovládání hlasitosti pro jednotlivé aplikace</string>
+    <string name="app_volume_summary">Povolit nastavení různých úrovní hlasitosti pro každou aplikaci</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Chytré 5G</string>
+    <string name="smart_5g_summary">Automaticky přepnout mezi 5G a 4G pro snížení spotřeby baterie</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Tmavší stíny (AMOLED)</string>
+    <string name="system_black_theme_summary">Vynutit černé barvy pozadí</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Zkopírováno do schránky</string>
+    <string name="longpress_to_clipboard">Dlouhým stisknutím zkopírujete</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Vyberte výchozí chování při připojení k zařízení přes USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Méně než 1 minuta</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s dnes</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Frekvence obnovení</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Zobrazit překrytí v levém dolním rohu obrazovky, když je něco zkopírováno do schránky</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Snížit obnovovací frekvenci</string>
+    <string name="battery_saver_refresh_rate_summary">Použít obnovovací frekvenci 60 Hz pro úsporu energie, když je zapnut spořič baterie</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Skrýt menu napájení na zamykací obrazovce</string>
+    <string name="power_menu_hide_on_secure_summary">Skrýt menu napájení při zabezpečené zamykací obrazovce</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Kroky hlasitosti</string>
+    <string name="volume_steps_summary">Přizpůsobit kroky hlasitosti</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Média</string>
+    <string name="volume_steps_notification_title">Oznamování</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Systém</string>
+    <string name="volume_steps_voice_call_title">Hlasový hovor</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

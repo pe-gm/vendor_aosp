@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">提升您的游戏体验</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">导航栏</string>
+    <string name="immersive_navigation_title">沉浸式导航</string>
+    <string name="immersive_navigation_summary">隐藏手势避孕药和导航栏填充。</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">通知振动模式</string>
+    <string name="ring_vibration_pattern_title">铃声振动模式</string>
+    <string name="pattern_default">设备默认</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">忽略窗口安全标志</string>
+    <string name="ignore_window_secure_summary">这将取消所有应用程序的屏幕截图和屏幕记录限制。通常，特殊应用程序被记录中的黑区所取代。 这在某些情况下可能是方便的，但可能导致隐私泄露。 更改此切换后，您可能需要重新启动应用程序才能使更改生效。</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">全屏应用</string>
+    <string name="display_cutout_force_fullscreen_summary">强制应用忽略notch空间</string>
+    <string name="search">搜索</string>
+    <string name="search_apps">搜索应用</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">应用音量</string>
+    <string name="app_volume_title">应用音量控制</string>
+    <string name="app_volume_summary">允许为每个应用设置不同的音量级别</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">智能5G</string>
+    <string name="smart_5g_summary">自动切换5G 和 4G 之间以降低电池消耗</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">暗色阴影(AMOLED)</string>
+    <string name="system_black_theme_summary">强制黑色背景颜色</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">复制到剪贴板</string>
+    <string name="longpress_to_clipboard">长按以复制</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">通过 USB 连接到设备时选择默认行为</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">不到 1 分钟</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">今天%1$s</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">刷新率</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">当某些东西被复制到剪贴板时，在屏幕左下角显示叠加</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">使用60赫兹屏幕刷新率在省电模式开启时省电</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">在锁屏界面隐藏电源菜单</string>
+    <string name="power_menu_hide_on_secure_summary">在安全锁屏时隐藏电源菜单</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">音量步长</string>
+    <string name="volume_steps_summary">自定义音量步骤</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTM</string>
+    <string name="volume_steps_music_title">媒体</string>
+    <string name="volume_steps_notification_title">通知</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">系统</string>
+    <string name="volume_steps_voice_call_title">语音通话</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

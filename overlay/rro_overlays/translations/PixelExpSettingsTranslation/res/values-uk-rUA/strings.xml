@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Ігровий простір</string>
+    <string name="game_space_summary">Поліпшіть свій досвід гри</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Панель навігації</string>
+    <string name="immersive_navigation_title">Імерсивна навігація</string>
+    <string name="immersive_navigation_summary">Приховати жест таблетки та панель навігації.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Шаблон вібрації сповіщень</string>
+    <string name="ring_vibration_pattern_title">Гучність вібрації</string>
+    <string name="pattern_default">Налаштування пристрою за умовчанням</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ігнорувати віконні прапори безпеки</string>
+    <string name="ignore_window_secure_summary">Це видаляє ліміти даних з екрану та записи екрану для всіх програм. Зазвичай такі програми замінюються чорними зонами в записах. Це може бути зручним у деяких випадках, але може призвести до витоку конфіденційності. Після зміни цього перемикача, вам може знадобитися перезапуск програм, щоб зміни набрали сили.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Повноекранні додатки</string>
+    <string name="display_cutout_force_fullscreen_summary">Змушувати додаткам не зважаючи на брову</string>
+    <string name="search">Пошук</string>
+    <string name="search_apps">Пошук додатків</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Гучність програми</string>
+    <string name="app_volume_title">Керування гучністю програм</string>
+    <string name="app_volume_summary">Встановлення різних рівнів гучності для кожної програми</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Смарт 5G</string>
+    <string name="smart_5g_summary">Автоматично переключати між 5G та 4G, щоб зменшити споживання заряду акумулятора</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Темні тіні (AMOLED)</string>
+    <string name="system_black_theme_summary">Примусово використовувати чорні фонові кольори</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Скопійовано до буферу обміну</string>
+    <string name="longpress_to_clipboard">Тривале натискання для копіювання</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Вибрати поведінку за замовчуванням під час підключення пристрою через USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Менше хвилини</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s today</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Частота оновлення</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Показувати накладання в лівому нижньому куті екрану коли щось копіюється в буфер обміну</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Зменшити швидкість оновлення</string>
+    <string name="battery_saver_refresh_rate_summary">Використовувати 60 Гц перезавантаження екрану, щоб зберегти заряд енергії, коли ввімкнено режим економії заряду акумулятора</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Приховати меню живлення на екрані блокування</string>
+    <string name="power_menu_hide_on_secure_summary">Приховати меню живлення на екрані блокування</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Рівні гучності</string>
+    <string name="volume_steps_summary">Налаштування рівнів гучності</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">ДТМФ</string>
+    <string name="volume_steps_music_title">Медіа</string>
+    <string name="volume_steps_notification_title">Сповіщення</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Система</string>
+    <string name="volume_steps_voice_call_title">Голосовий виклик</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

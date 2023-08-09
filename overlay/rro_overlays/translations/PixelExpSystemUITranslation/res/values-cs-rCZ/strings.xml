@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screenshot delete action -->
+    <!-- Label for UI element which allows deleting the screenshot [CHAR LIMIT=30] -->
+    <string name="screenshot_delete_label">Vymazat</string>
+    <!-- Content description indicating that tapping the element will allow deleting the screenshot [CHAR LIMIT=NONE] -->
+    <string name="screenshot_delete_description">Odstranit snímek obrazovky</string>
+    <!-- SoundSearch Tile -->
+    <string name="quick_settings_sound_search">Zvukové vyhledávání</string>
+    <string name="quick_settings_sound_search_no_app">Omlouváme se, ale toto nefunguje, pokud nemáte aplikaci pro zvukové vyhledávání.</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Přepnout datovou kartu</string>
+    <!-- Bluetooth dialog -->
+    <string name="bluetooth_is_off">Bluetooth je vypnutý</string>
+    <string name="tap_a_device_to_connect">Pro připojení klepněte na zařízení</string>
+    <!-- Screenshot Tile -->
+    <string name="screenshot_long_press">Dlouhým stiskem - vybraný region</string>
+    <!-- Refresh Rate Tile -->
+    <string name="refresh_rate_tile_label">Obnovovací frekvence</string>
+    <string name="auto_mode_label">Dynamický</string>
+</resources>

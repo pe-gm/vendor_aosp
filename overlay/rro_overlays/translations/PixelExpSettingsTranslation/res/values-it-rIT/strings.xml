@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Spazio Di Gioco</string>
+    <string name="game_space_summary">Migliora la tua esperienza di gioco</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barra di navigazione</string>
+    <string name="immersive_navigation_title">Navigazione Immersiva</string>
+    <string name="immersive_navigation_summary">Nascondi la pillola di gesto e la barra di navigazione imbottitura.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Schema vibrazione notifiche</string>
+    <string name="ring_vibration_pattern_title">Modello di vibrazione ad anello</string>
+    <string name="pattern_default">Dispositivo predefinito</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ignora le bandiere di sicurezza della finestra</string>
+    <string name="ignore_window_secure_summary">Questo rimuove gli screenshot e i limiti di screenrecords per tutte le applicazioni. Normalmente, le applicazioni speciali vengono sostituite con aree nere nei record. Questo può essere conveniente in alcuni casi, ma può portare a perdite di privacy. Dopo aver cambiato questa opzione, potrebbe essere necessario riavviare le applicazioni perché la modifica abbia effetto.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">App a schermo intero</string>
+    <string name="display_cutout_force_fullscreen_summary">Forza le app ad ignorare lo spazio notch</string>
+    <string name="search">Cerca</string>
+    <string name="search_apps">Cerca app</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Volume app</string>
+    <string name="app_volume_title">Controllo volume per app</string>
+    <string name="app_volume_summary">Consenti di impostare diversi livelli di volume per ogni app</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Commutare automaticamente tra 5G e 4G per ridurre il consumo di batteria</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Tonalità Scure (AMOLED)</string>
+    <string name="system_black_theme_summary">Forza colori di sfondo nero</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Copiato negli appunti</string>
+    <string name="longpress_to_clipboard">Premi a lungo per copiare</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Scegli il comportamento predefinito quando connesso a un dispositivo tramite USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Meno di 1 minuto</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s oggi</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Frequenza Di Aggiornamento</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Mostra una sovrapposizione nell\'angolo inferiore sinistro dello schermo quando qualcosa viene copiato negli appunti</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Riduce la frequenza di aggiornamento</string>
+    <string name="battery_saver_refresh_rate_summary">Usa la frequenza di aggiornamento dello schermo 60 Hz per risparmiare energia quando il risparmio energetico è attivo</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Nascondi il menù di spegnimento nella schermata di blocco</string>
+    <string name="power_menu_hide_on_secure_summary">Nascondi il menù di spegnimento mentre sei in una schermata di blocco sicura</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Livelli volume</string>
+    <string name="volume_steps_summary">Personalizza le fasi del volume</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Notifica</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Sistema</string>
+    <string name="volume_steps_voice_call_title">Chiamata Vocale</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

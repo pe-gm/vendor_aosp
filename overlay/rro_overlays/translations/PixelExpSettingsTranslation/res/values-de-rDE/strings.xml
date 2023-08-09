@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Spielraum</string>
+    <string name="game_space_summary">Verbessern Sie Ihr Spielerlebnis</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigationsleiste</string>
+    <string name="immersive_navigation_title">Vollständige Navigation</string>
+    <string name="immersive_navigation_summary">Gesten Pille und Navigationsleiste ausblenden.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Benachrichtigungs-Vibrationsmuster</string>
+    <string name="ring_vibration_pattern_title">Klingelvibration Muster</string>
+    <string name="pattern_default">Gerätestandard</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Sicheres Fenster ignorieren</string>
+    <string name="ignore_window_secure_summary">Damit werden die Screenshots und Screenshots für alle Anwendungen entfernt. Dies kann in einigen Fällen bequem sein, kann aber zu Ungereimtheiten in der Privatsphäre führen. Nach dem Ändern dieses Schalters müssen Sie unter Umständen die Anwendungen neu starten, damit die Änderung wirksam wird.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Vollbild-Apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Apps erzwingen Leerzeichen zu ignorieren</string>
+    <string name="search">Suchen</string>
+    <string name="search_apps">Apps suchen</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">App-Lautstärke</string>
+    <string name="app_volume_title">Lautstärkeregelung pro App</string>
+    <string name="app_volume_summary">Erlaube das Festlegen verschiedener Lautstärkepegel für jede App</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Intelligente 5G</string>
+    <string name="smart_5g_summary">Automatischer Wechsel zwischen 5G und 4G um den Akkuverbrauch zu reduzieren</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Dunkler Schatten (AMOLED)</string>
+    <string name="system_black_theme_summary">Erzwinge schwarze Hintergrundfarben</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">In Zwischenablage kopiert</string>
+    <string name="longpress_to_clipboard">Zum Kopieren lange drücken</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Standardverhalten wählen, wenn über USB mit einem Gerät verbunden wird</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Weniger als 1 Minute</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">Heute %1$s</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Aktualisierungsrate</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Ein Overlay in der linken unteren Ecke des Bildschirms anzeigen, wenn etwas in die Zwischenablage kopiert wird</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Reduziere Aktualisierungsrate</string>
+    <string name="battery_saver_refresh_rate_summary">60 Hz Bildschirmwiederholungsrate verwenden, um Energie zu sparen, wenn Energiesparmodus aktiviert ist</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Ein/Aus-Menü auf Sperrbildschirm ausblenden</string>
+    <string name="power_menu_hide_on_secure_summary">Ausschalten des Power-Menüs während eines sicheren Sperrbildschirms</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Lautstärketasten</string>
+    <string name="volume_steps_summary">Lautstärketasten anpassen</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Medien</string>
+    <string name="volume_steps_notification_title">Benachrichtigung</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">System</string>
+    <string name="volume_steps_voice_call_title">Sprachanruf</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

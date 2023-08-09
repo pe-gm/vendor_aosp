@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Pelin Tila</string>
+    <string name="game_space_summary">Paranna pelikokemustasi</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Navigointipalkki</string>
+    <string name="immersive_navigation_title">Immersive Navigation</string>
+    <string name="immersive_navigation_summary">Piilota ele pilleri ja navigointipalkin pehmuste.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Ilmoitusten värinä kuvio</string>
+    <string name="ring_vibration_pattern_title">Soittovärinän kuvio</string>
+    <string name="pattern_default">Laitteen oletus</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Ohita ikkunan turvalliset liput</string>
+    <string name="ignore_window_secure_summary">Tämä poistaa kuvakaappaukset ja kuvatallenteiden rajat kaikissa sovelluksissa. Tavallisesti erikoissovellukset korvataan mustalla alueella tietueilla. Tämä voi olla kätevää joissakin tapauksissa, mutta voi johtaa yksityisyyden vuotoja. Tämän vaihtamisen jälkeen sinun on ehkä käynnistettävä sovellukset uudelleen, jotta muutos tulee voimaan.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Koko näytön sovellukset</string>
+    <string name="display_cutout_force_fullscreen_summary">Pakota sovellukset ohittamaan lovea</string>
+    <string name="search">Etsi</string>
+    <string name="search_apps">Hae sovelluksia</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Sovelluksen äänenvoimakkuus</string>
+    <string name="app_volume_title">Sovelluksen äänenvoimakkuuden säätö</string>
+    <string name="app_volume_summary">Salli asettaa eri äänenvoimakkuudet jokaiselle sovellukselle</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Älykäs 5G</string>
+    <string name="smart_5g_summary">Vaihda automaattisesti 5G:n ja 4G:n välillä säästääksesi akun kulutusta</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Tummat Shades (AMOLED)</string>
+    <string name="system_black_theme_summary">Pakota mustat taustavärit</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Kopioitu leikepöydälle</string>
+    <string name="longpress_to_clipboard">Paina pitkään kopioidaksesi</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Valitse oletuskäyttäytyminen, kun laitteeseen on yhdistetty USB:n kautta</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Alle 1 minuutti</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s tänään</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Päivitä Hinta</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Näytä peittokuva näytön vasemmassa alakulmassa, kun jotain on kopioitu leikepöydälle</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Vähennä päivitysnopeutta</string>
+    <string name="battery_saver_refresh_rate_summary">Käytä 60 Hz:n näytön virkistystasoa säästääksesi virransäästöä, kun virransäästö on päällä</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Piilota virtavalikko lukitusnäytöllä</string>
+    <string name="power_menu_hide_on_secure_summary">Piilota virtavalikko suojatun lukitusnäytön aikana</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Äänenvoimakkuuden vaiheet</string>
+    <string name="volume_steps_summary">Muokkaa äänenvoimakkuuden vaiheet</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Media</string>
+    <string name="volume_steps_notification_title">Ilmoitus</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Järjestelmä</string>
+    <string name="volume_steps_voice_call_title">Äänipuhelu</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>

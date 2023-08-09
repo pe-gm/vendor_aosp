@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Game Space -->
+    <string name="game_space_title">Игровое пространство</string>
+    <string name="game_space_summary">Улучшите свой игровой опыт</string>
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Панель навигации</string>
+    <string name="immersive_navigation_title">Погружающая навигация</string>
+    <string name="immersive_navigation_summary">Скрыть таблетку жестов и накладку панели навигации.</string>
+    <!-- Vibration patterns -->
+    <string name="notification_vibration_pattern_title">Шаблон вибрации уведомления</string>
+    <string name="ring_vibration_pattern_title">Шаблон вибрации звонка</string>
+    <string name="pattern_default">По умолчанию</string>
+    <!-- Ignore window secure -->
+    <string name="ignore_window_secure_title">Игнорировать флаги безопасности окна</string>
+    <string name="ignore_window_secure_summary">Убирает границы скриншотов и записей для всех приложений. Обычно специальные приложения заменяются черными областями в записях. Это может быть удобным в некоторых случаях, но может привести к утечке конфиденциальности. После изменения этого переключателя вам может потребоваться перезапустить приложения, чтобы изменения вступили в силу.</string>
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Приложения на весь экран</string>
+    <string name="display_cutout_force_fullscreen_summary">Принудительные приложения игнорировать пробел</string>
+    <string name="search">Искать</string>
+    <string name="search_apps">Поиск приложений</string>
+    <!-- Per-app volume control -->
+    <string name="app_volume">Громкость приложения</string>
+    <string name="app_volume_title">Управление громкостью приложения</string>
+    <string name="app_volume_summary">Позволяет устанавливать разные уровни громкости для каждого приложения</string>
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Умный 5G</string>
+    <string name="smart_5g_summary">Автоматическое переключение между 5G и 4G для снижения расхода батареи</string>
+    <!-- Black theme -->
+    <string name="system_black_theme_title">Темные оттенки (AMOLED)</string>
+    <string name="system_black_theme_summary">Принудительно использовать черный цвет фона</string>
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
+    <!-- General -->
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="longpress_to_clipboard">Долгое нажатие для копирования</string>
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">USB</string>
+    <string name="usb_default_config_summary">Выберите поведение по умолчанию при подключении к устройству через USB</string>
+    <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
+    <string name="duration_less_than_one_minute">Менее чем в минуту</string>
+    <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
+    <string name="screen_time_summary_usage_today">%1$s today</string>
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Частота обновления</string>
+    <!-- Show clipboard overlay -->
+    <string name="show_clipboard_overlay_title">Show clipboard overlay</string>
+    <string name="show_clipboard_overlay_summary">Показывать оверлей в левом нижнем углу экрана, когда что-то копируется в буфер обмена</string>
+    <!-- 60hz Battery Saver Toggle -->
+    <string name="battery_saver_refresh_rate_title">Уменьшить частоту обновления</string>
+    <string name="battery_saver_refresh_rate_summary">Использовать частоту обновления экрана на 60 Гц для экономии заряда батареи</string>
+    <!-- Power menu on lockscreen -->
+    <string name="power_menu_hide_on_secure_title">Скрыть меню питания на экране блокировки</string>
+    <string name="power_menu_hide_on_secure_summary">Скрыть меню питания на защищенном экране блокировки</string>
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Шаги громкости</string>
+    <string name="volume_steps_summary">Настройка уровней громкости</string>
+    <string name="volume_steps_alarm_title">Alarm</string>
+    <string name="volume_steps_dtmf_title">DTMF</string>
+    <string name="volume_steps_music_title">Медиа</string>
+    <string name="volume_steps_notification_title">Уведомление</string>
+    <string name="volume_steps_ring_title">Ringer</string>
+    <string name="volume_steps_system_title">Система</string>
+    <string name="volume_steps_voice_call_title">Голосовой вызов</string>
+    <string name="volume_steps_reset">Reset</string>
+</resources>
