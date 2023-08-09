@@ -101,10 +101,6 @@ PRODUCT_PACKAGES += \
     mkfs.ntfs \
     mount.ntfs
 
-# Config
-PRODUCT_PACKAGES += \
-    SimpleDeviceConfig
-
 # Game Space
 PRODUCT_PACKAGES += \
     GameSpace
