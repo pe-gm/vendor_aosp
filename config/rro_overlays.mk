@@ -37,3 +37,9 @@ PRODUCT_PACKAGES += \
     TelecomOverlay \
     TelephonyProviderOverlay \
     TraceurOverlay
+
+# Translations
+PRODUCT_PACKAGES += \
+    PixelExpFrameworksTranslation \
+    PixelExpSettingsTranslation \
+    PixelExpSystemUITranslation
