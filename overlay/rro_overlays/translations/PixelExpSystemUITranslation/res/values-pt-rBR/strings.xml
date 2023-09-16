@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screenrecord_delete_label">Excluir</string>
+    <string name="screenrecord_delete_description">Gravação de tela excluída</string>
+    <string name="bluetooth_is_off">O Bluetooth está desligado</string>
+    <string name="tap_a_device_to_connect">Toque em um dispositivo para conectar</string>
+    <string name="quick_settings_sound_search">Pesquisa de som</string>
+    <string name="quick_settings_sound_search_no_app">Desculpe, mas isso não funciona se você não tiver um aplicativo de pesquisa de som.</string>
+    <string name="status_bar_roaming">Roaming</string>
+    <string name="status_bar_data_saver">Economia de dados</string>
+    <string name="refresh_rate_tile_label">Taxa de atualização</string>
+    <string name="auto_mode_label">Dinâmica</string>
+    <string name="status_bar_hd_calling">Chamadas HD (VoLTE/VoNR)</string>
+    <string name="status_bar_vowifi">Chamadas Wi-Fi (VoWiFi)</string>
+    <string name="gesture_locked_warning">Deslize novamente para desbloquear gestos</string>
+</resources>
