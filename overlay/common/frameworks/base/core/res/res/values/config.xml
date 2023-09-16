@@ -125,4 +125,10 @@
 
     <!-- Whether safe headphone volume is enabled or not. -->
     <bool name="config_safe_media_volume_enabled">false</bool>
+
+    <!-- Whitelist to access log service. -->
+    <string-array translatable="false" name="config_loggersPkgList" >
+        <item>orgcom.dp.logcatapp</item>
+        <item>org.omnirom.logcat</item>
+    </string-array>
 </resources>
