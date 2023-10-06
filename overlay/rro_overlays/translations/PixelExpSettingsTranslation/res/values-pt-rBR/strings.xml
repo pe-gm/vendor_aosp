@@ -52,4 +52,8 @@
     <string name="volume_steps_reset">Reiniciar</string>
     <string name="hide_developer_status_title">Ocultar status de desenvolvedor</string>
     <string name="hide_developer_status_summary">Ocultar o status de desenvolvedor dos aplicativos</string>
+    <string name="dc_dimming_title">DC Dimming</string>
+    <string name="dc_dimming_info">Reduz o cansaço visual em condições de pouca luz, minimizando a cintilação da tela. Pode resultar em qualidade de imagem reduzida e produção de cores deficiente ou maior consumo de energia.</string>
+    <string name="dc_dimming_main_switch_title">Usar DC Dimming</string>
+    <string name="keywords_display_dc_dimming">anti cintilação, anti, cintilação, olho, tensão</string>
 </resources>

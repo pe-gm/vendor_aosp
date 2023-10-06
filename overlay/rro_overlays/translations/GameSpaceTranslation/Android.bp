@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "GameSpaceTranslation",
+    product_specific: true,
+}
