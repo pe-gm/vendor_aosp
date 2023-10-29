@@ -56,4 +56,6 @@
     <string name="dc_dimming_info">Reduz o cansaço visual em condições de pouca luz, minimizando a cintilação da tela. Pode resultar em qualidade de imagem reduzida e produção de cores deficiente ou maior consumo de energia.</string>
     <string name="dc_dimming_main_switch_title">Usar DC Dimming</string>
     <string name="keywords_display_dc_dimming">anti cintilação, anti, cintilação, olho, tensão</string>
+    <string name="smooth_display_intro">Aumenta automaticamente a taxa de atualização de 60 Hz para a alta taxa de atualização selecionada, para alguns conteúdos. Aumenta o uso da bateria.</string>
+    <string name="smooth_display_switch">Usar Smooth Display</string>
 </resources>

@@ -40,6 +40,7 @@ PRODUCT_PACKAGES += \
 
 # Translations
 PRODUCT_PACKAGES += \
+    ApertureTranslation \
     GameSpaceTranslation \
     PixelExpFrameworksTranslation \
     PixelExpSettingsTranslation \

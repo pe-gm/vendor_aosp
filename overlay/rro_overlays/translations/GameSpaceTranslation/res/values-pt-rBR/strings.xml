@@ -67,6 +67,6 @@
     <string name="stay_awake_title">Manter tela ligada</string>
     <string name="stay_awake_summary">Mantenha a tela ligada durante o jogo</string>
     <string name="lock_gesture_title">Bloquear gestos</string>
-    <string name="danmaku_notification_mode_title">Modo de notificação Danmaku</string>
-    <string name="danmaku_notification_mode_summary">Mostrar notificação como comentários de danmaku, também conhecidos como marcadores, enquanto o jogo está ativo</string>
+    <string name="danmaku_notification_mode_title">Notificações Danmaku</string>
+    <string name="danmaku_notification_mode_summary">Mostrar as notificações como marcadores, enquanto o jogo está ativo</string>
 </resources>
