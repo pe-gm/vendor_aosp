@@ -37,11 +37,3 @@ PRODUCT_PACKAGES += \
     TelecomOverlay \
     TelephonyProviderOverlay \
     TraceurOverlay
-
-# Translations
-PRODUCT_PACKAGES += \
-    ApertureTranslation \
-    GameSpaceTranslation \
-    PixelExpFrameworksTranslation \
-    PixelExpSettingsTranslation \
-    PixelExpSystemUITranslation

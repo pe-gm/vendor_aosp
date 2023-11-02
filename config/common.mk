@@ -237,4 +237,7 @@ $(call inherit-product, vendor/pixel-framework/config.mk)
 # Themed icons
 $(call inherit-product, packages/overlays/ThemeIcons/config.mk)
 
+# Translations
+$(call inherit-product-if-exists, vendor/aosp/translations/translations.mk)
+
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
